@@ -1,0 +1,11 @@
+.container {
+    width: 15rem;
+    height: auto;
+    margin: 0 auto;
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%, -50%);
+    position: absolute;
+    background-color: orange;
+    padding: 10px;
+}
